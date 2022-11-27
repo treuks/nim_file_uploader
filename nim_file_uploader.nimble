@@ -12,4 +12,4 @@ bin           = @["app"]
 
 requires "nim >= 1.6.8"
 requires "prologue 0.6.4"
-requires "imghdr 2.0"
+requires "dotenv >= 2.0.0"
